@@ -1,0 +1,19 @@
+#groceries{
+  /*background-image: url("../images/groceries.png");*/
+  padding-bottom: 250px;
+  background-repeat: no-repeat;
+  padding-right: 200px;
+}
+#g{
+  margin-top: 200px;
+  margin-left: 200px;
+  color: black;
+}
+btn{
+  margin-left: 200px;
+}
+h1{
+  font-family: sans-serif;
+  font-style: italic;
+  color: orange;
+}
